@@ -31,6 +31,16 @@ chmod +x MiCellAnnGELo.x86_64
 
 After this command has been run, the application can be run using `./MiCellAnnGELo.x86_64`.
 
+# Loading sample data
+
+Sample surface files are located in SampleData/HM3477_XX0001.zip.
+To load the surface files into MiCellAnnGELo, first unzip the data folder, then start MiCellAnnGELo.
+If using desktop mode, first press <kbd>Tab</kbd> to enter desktop mode.
+Use the "Load Time Series" button on the wall-mounted interface, then navigate to the unzipped folder and click "load".
+Controls are displayed for both keyboard and VR controllers on the wall.
+
+Surface data from other sources can be imported as a folder of .ply files with frame numbers in the file names.
+
 # Viewing source
 
 ## Viewing created scripts, shaders, etc
