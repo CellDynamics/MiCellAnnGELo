@@ -4,9 +4,15 @@
 
 # Installation & Execution
 
-In order to make use of the VR functionality of the software, SteamVR must be installed. This can be downloaded on the [SteamVR page](https://store.steampowered.com/app/250820/SteamVR/) which requires Steam to be installed, downloadable from the [Steam download page](https://store.steampowered.com/about/).
+In order to make use of the VR functionality of the software, SteamVR must be installed.
+This can be downloaded on the 
+[SteamVR page](https://store.steampowered.com/app/250820/SteamVR/)
+which requires Steam to be installed, downloadable from the 
+[Steam download page](https://store.steampowered.com/about/).
 
-After SteamVR has been installed and set up according to the instructions, the installing and execution of the system varies depending on OS. The distributions for each platform are located in the Build folder.
+After SteamVR has been installed and set up according to the instructions,
+the installing and execution of the system varies depending on OS.
+The distributions for each platform are available to download as .zip files.
 
 ## Windows
 
