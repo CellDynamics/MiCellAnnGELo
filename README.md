@@ -10,36 +10,36 @@ After SteamVR has been installed and set up according to the instructions, the i
 
 ## Windows
 
-Run the `VRtrainAI.exe` file in the Windows build folder.
+Run the `MiCellAnnGELo.exe` file in the Windows build folder.
 
 ## MacOS
 
 Run the following commands from terminal in the MacOS build folder:
 ```
-chmod a+x VRtrainAI.app/Contents/MacOS/*
-xattr -r -d com.apple.quarantine VRtrainAI.app/
+chmod a+x MiCellAnnGELo.app/Contents/MacOS/*
+xattr -r -d com.apple.quarantine MiCellAnnGELo.app/
 ```
 
-After these commands have been run, the application can be run by running `VRtrainAI.app`.
+After these commands have been run, the application can be run by running `MiCellAnnGELo.app`.
 
 ## Linux
 
 Run the following Run the following command from terminal in the Linux build folder:
 ```
-chmod +x VRtrainAI.x86_64
+chmod +x MiCellAnnGELo.x86_64
 ```
 
-After this command has been run, the application can be run using `./VRtrainAI.x86_64`.
+After this command has been run, the application can be run using `./MiCellAnnGELo.x86_64`.
 
 # Viewing source
 
 ## Viewing created scripts, shaders, etc
 
-All created elements in the system are located in VRtrainAI/Assets/.
+All created elements in the system are located in MiCellAnnGELo/Assets/.
 
 ## Viewing the project in Unity
 
-To view the project in the Unity editor, install the [Unity Hub](https://store.unity.com/#plans-individual). In the projects tab, add the VRtrainAI folder as a project and download the associated editor version (2019.4.15) through Unity Hub with build tools for Windows, MacOS, and Linux. After the editor is downloaded, the project can be opened by selecting it in Unity Hub.
+To view the project in the Unity editor, install the [Unity Hub](https://store.unity.com/#plans-individual). In the projects tab, add the MiCellAnnGELo folder as a project and download the associated editor version (2019.4.15) through Unity Hub with build tools for Windows, MacOS, and Linux. After the editor is downloaded, the project can be opened by selecting it in Unity Hub.
 
 The project may take multiple attempts to open due to a window layout error.
 
