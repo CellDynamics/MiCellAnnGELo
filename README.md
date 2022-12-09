@@ -1,18 +1,16 @@
 # MiCellAnnGELo
 
-**Mi**croscopy and **Cell** **Ann**otation **G**raphical **E**xperience and **L**abelling to**o**l
+MiCellAnnGELo (**Mi**croscopy and **Cell** **Ann**otation **G**raphical **E**xperience and **L**abelling to**o**l)
+allows annotation of colour surfaces segmented from microscopy movies using either
+a virtual reality (VR) headset and controllers, or computer screen with mouse and keyboard.
 
 # Installation & Execution
 
-In order to make use of the VR functionality of the software, SteamVR must be installed.
-This can be downloaded on the 
-[SteamVR page](https://store.steampowered.com/app/250820/SteamVR/)
-which requires Steam to be installed, downloadable from the 
-[Steam download page](https://store.steampowered.com/about/).
+## VR requirements
 
-After SteamVR has been installed and set up according to the instructions,
-the installing and execution of the system varies depending on OS.
-The distributions for each platform are available to download as .zip files.
+In order to make use of the VR functionality of the software, SteamVR must be installed.
+This can be downloaded from the 
+[SteamVR page](https://store.steampowered.com/app/250820/SteamVR/).
 
 ## Windows
 
@@ -47,6 +45,12 @@ Controls are displayed for both keyboard and VR controllers on the wall.
 
 Surface data from other sources can be imported as a folder of .ply files with frame numbers in the file names.
 
+# Demonstration videos
+
+Uncompressed demonstration videos can be downloaded [here](https://arxiv.org/abs/2209.11672).
+
+<!-- TODO: add compressed videos -->
+
 # Viewing source
 
 ## Viewing created scripts, shaders, etc
@@ -62,3 +66,8 @@ The project may take multiple attempts to open due to a window layout error.
 ### Building the project
 
 To rebuild the project from the Unity Editor, select Build Settings in the File menu. From here, select the correct OS and click Build. The project will build to the given file path.
+
+# Publications
+
+Please refer to [this preprint](https://arxiv.org/abs/2209.11672) for more information. Citation:
+ > Platt, A., Lutton, E. J., Offord, E., & Bretschneider, T. (2022). MiCellAnnGELo: Annotate microscopy time series of complex cell surfaces with 3D Virtual Reality. arXiv preprint arXiv:2209.11672.
