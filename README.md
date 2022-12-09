@@ -47,19 +47,26 @@ Surface data from other sources can be imported as a folder of .ply files with f
 
 # Demonstration videos
 
+Demonstration videos can be downloaded [here](https://arxiv.org/abs/2209.11672) or from the DemoMovies folder.
+These videos are displayed below, but note that they may not work in your browser (we are working on a solution for this!).
+
 ## Placing markers
 
 https://user-images.githubusercontent.com/44062886/206718787-5f18870f-bdf6-41b7-a042-e37e9d4d49d4.mp4
 
 ## Painting surfaces
 
+https://user-images.githubusercontent.com/44062886/206739666-a9c2f453-d67e-46cd-9983-253550e3b3bf.mp4
+
 ## Moving through frames and surface manipulation
+
+https://user-images.githubusercontent.com/44062886/206739733-e6c9b75b-76e0-4270-abbc-efc10f826858.mp4
 
 ## Colour and opacity controls
 
-Demonstration videos can be downloaded [here](https://arxiv.org/abs/2209.11672).
+https://user-images.githubusercontent.com/44062886/206741587-f1823bb5-60df-4b7e-abf8-112f1d0cb2b2.mp4
 
-<!-- TODO: add compressed videos -->
+<!-- TODO: improve movie embedding -->
 
 # Viewing source
 
