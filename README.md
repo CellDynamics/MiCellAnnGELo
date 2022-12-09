@@ -47,7 +47,17 @@ Surface data from other sources can be imported as a folder of .ply files with f
 
 # Demonstration videos
 
-Uncompressed demonstration videos can be downloaded [here](https://arxiv.org/abs/2209.11672).
+## Placing markers
+
+https://user-images.githubusercontent.com/44062886/206718787-5f18870f-bdf6-41b7-a042-e37e9d4d49d4.mp4
+
+## Painting surfaces
+
+## Moving through frames and surface manipulation
+
+## Colour and opacity controls
+
+Demonstration videos can be downloaded [here](https://arxiv.org/abs/2209.11672).
 
 <!-- TODO: add compressed videos -->
 
