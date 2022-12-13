@@ -47,26 +47,23 @@ Surface data from other sources can be imported as a folder of .ply files with f
 
 # Demonstration videos
 
-Demonstration videos can be downloaded [here](https://arxiv.org/abs/2209.11672) or from the DemoMovies folder.
-These videos are displayed below, but note that they may not work in your browser (we are working on a solution for this!).
+Demonstration videos shown below can be downloaded [here](https://arxiv.org/abs/2209.11672).
 
 ## Placing markers
 
-https://user-images.githubusercontent.com/44062886/206718787-5f18870f-bdf6-41b7-a042-e37e9d4d49d4.mp4
+https://user-images.githubusercontent.com/44062886/207293288-79ceb40e-b363-4e65-8a25-b7f176a5362f.mp4
 
 ## Painting surfaces
 
-https://user-images.githubusercontent.com/44062886/206739666-a9c2f453-d67e-46cd-9983-253550e3b3bf.mp4
+https://user-images.githubusercontent.com/44062886/207293495-af22e763-18b2-43e5-ba2f-223aa83c4d88.mp4
 
 ## Moving through frames and surface manipulation
 
-https://user-images.githubusercontent.com/44062886/206739733-e6c9b75b-76e0-4270-abbc-efc10f826858.mp4
+https://user-images.githubusercontent.com/44062886/207295114-c06b9de0-9a49-4b5a-868b-df56103bc760.mp4
 
 ## Colour and opacity controls
 
-https://user-images.githubusercontent.com/44062886/206741587-f1823bb5-60df-4b7e-abf8-112f1d0cb2b2.mp4
-
-<!-- TODO: improve movie embedding -->
+https://user-images.githubusercontent.com/44062886/207295189-53f6503a-4f2d-4e39-a5d7-f28339f6c040.mp4
 
 # Viewing source
 
