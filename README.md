@@ -47,7 +47,7 @@ Surface data from other sources can be imported as a folder of .ply files with f
 
 # Demonstration videos
 
-Demonstration videos shown below can be downloaded [here](https://arxiv.org/abs/2209.11672).
+Demonstration videos shown below can be downloaded at full resolution [here](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btad013/6984716?utm_source=advanceaccess&utm_campaign=bioinformatics&utm_medium=email).
 
 ## Placing markers
 
@@ -83,5 +83,5 @@ To rebuild the project from the Unity Editor, select Build Settings in the File 
 
 # Publications
 
-Please refer to [this preprint](https://arxiv.org/abs/2209.11672) for more information. Citation:
- > Platt, A., Lutton, E. J., Offord, E., & Bretschneider, T. (2022). MiCellAnnGELo: Annotate microscopy time series of complex cell surfaces with 3D Virtual Reality. arXiv preprint arXiv:2209.11672.
+Please refer to [this publication](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btad013/6984716?utm_source=advanceaccess&utm_campaign=bioinformatics&utm_medium=email) for more information. Citation:
+ > Platt, A., Lutton, E. J., Offord, E., & Bretschneider, T. (2023). MiCellAnnGELo: Annotate microscopy time series of complex cell surfaces with 3D Virtual Reality. <I>Bioinformatics</I>, btad013, https://doi.org/10.1093/bioinformatics/btad013
